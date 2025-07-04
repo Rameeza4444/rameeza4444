@@ -21,7 +21,7 @@
 
 - **📊 Accenture Data Analytics Internship (Forage)**  
   Completed real-world tasks in data cleaning, client analysis, and reporting using Excel and Python.  
-  🔗
+  🔗https://github.com/Rameeza4444/accenture-virtual-internship
 
 - **📈 Power BI Sales Analyst Dashboard**  
   Created an interactive sales analysis dashboard based on Chandoo's beginner-to-pro Power BI tutorial on YouTube.  
