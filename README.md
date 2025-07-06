@@ -18,6 +18,7 @@
 - **🌿 Arecaplant Disease Detection**  
   Development of image processing model for effective detection of disease im areca plant.
   (working on it)
+  https://github.com/Rameeza4444/areca-plant-disease-detection
 
 - **📊 Accenture Data Analytics Internship (Forage)**  
   Completed real-world tasks in data cleaning, client analysis, and reporting using Excel and Python.  
