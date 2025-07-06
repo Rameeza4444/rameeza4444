@@ -26,7 +26,7 @@
 - **📈 Power BI Sales Analyst Dashboard**  
   Created an interactive sales analysis dashboard based on Chandoo's beginner-to-pro Power BI tutorial on YouTube.  
   Skills: DAX, charts, slicers, KPIs, dashboard layout  
-  🔗 
+  🔗https://github.com/Rameeza4444/powerbi-sales-dashboard 
 
 - **📁 More projects coming soon...**
 
@@ -34,10 +34,10 @@
 
 ## 📚 Currently Learning
 
-- Robot Design (mechanical aspects)
-- Python for Data Science
+- SQL, Python for Data Science
 - Generative AI tools
 - Power BI dashboards
+- Excel
 
 
 ---
