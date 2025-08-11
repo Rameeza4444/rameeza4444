@@ -1,60 +1,73 @@
 # 👋 Hi there, I'm Rameeza!
 
-🎓 I’m a student of Robotics and Automation Engineering, currently exploring how data, automation, and AI can solve real-world problems. I enjoy working on projects that blend analytics, smart systems, and minimal code!
+🎓 I’m a student of **Robotics and Automation Engineering**, exploring how **data, automation, and AI/ML** can solve real-world problems.
+I enjoy working on projects that blend analytics, machine learning, smart systems, and **minimal coding**.
 
+---
 
 ## 🛠️ Skills & Interests
 
-- 🔍 Data Analytics & Visualization
-- 🧠 Deep Learning (CNN, GANs)
-- 🤖 CAD, Solidworks
-- 💡 AI in Agriculture & Smart Solutions
-- Python, c, SQL
+* 🔍 Data Analytics & Visualization (Excel, Power BI, SQL, Python)
+* 🧠 Machine Learning & Deep Learning 
+* 🤖 CAD, SolidWorks, Automation Systems
+* 💡 AI in Agriculture & Smart Solutions
+* 🛠 Workflow Automation (n8n, make, Knime)
+* 💬 Programming: Python, SQL
 
 ---
 
 ## 📌 Projects
 
-- **🌿 Arecaplant Disease Detection**  
-  Development of image processing model for effective detection of disease im areca plant.
-  (working on it)
-  https://github.com/Rameeza4444/areca-plant-disease-detection
+### 🌿 **Areca Plant Disease Detection** *(Mar 2025 – Ongoing)*
 
-- **📊 Accenture Data Analytics Internship (Forage)**  
-  Completed real-world tasks in data cleaning, client analysis, and reporting using Excel and Python.  
-  🔗https://github.com/Rameeza4444/accenture-virtual-internship
+* Collected **real-world image dataset** of areca plants from field sources.
+* Applied **image preprocessing and augmentation** using Python & OpenCV.
+* Currently evaluating **deep learning model architecture** (CNN & GAN-based approaches).
+* Aim: Support early disease detection to aid farmers and improve yield.
+  🔗 [GitHub Repository](https://github.com/Rameeza4444/areca-plant-disease-detection)
 
-- **📈 Power BI Sales Analyst Dashboard**  
-  Created an interactive sales analysis dashboard based on Chandoo's beginner-to-pro Power BI tutorial on YouTube.  
-  Skills: DAX, charts, slicers, KPIs, dashboard layout  
-  🔗https://github.com/Rameeza4444/powerbi-sales-dashboard 
+### 📊 **Accenture Data Analytics Internship (Forage)** *(Jun 2025)*
 
-- **📁 More projects coming soon...**
+* Analyzed datasets to identify **top-performing content categories**.
+* Cleaned and transformed data using **Excel** (VLOOKUP, Pivot Tables).
+* Presented insights through visual storytelling in **PowerPoint**.
+  🔗 [GitHub Repository](https://github.com/Rameeza4444/accenture-virtual-internship)
+
+### 📈 **Sales Analytics Dashboard – Power BI** *(Jun 2025)*
+
+* Built **interactive dashboard** to track sales KPIs.
+* Transformed & modeled **10,000+ rows** of raw data using **Power Query** & **DAX**.
+* Designed visuals with slicers, maps, and KPI cards for stakeholders.
+  🔗 [GitHub Repository](https://github.com/Rameeza4444/powerbi-sales-dashboard)
+
+### 🩺 **Breast Cancer Analysis – KNIME** *(Jul 2025)*
+
+* Created a **classification workflow** using Neural Network (MLP), SVM, Gradient Boosting, etc.
+* Preprocessed data and compared model performance using scorer nodes.
+* Achieved **99.12% accuracy** with Neural Network & Logistic Regression; Decision Tree had lowest accuracy.
 
 ---
 
 ## 📚 Currently Learning
 
-- SQL, Python for Data Science
-- Generative AI tools
-- Power BI dashboards
-- Excel
-
+* 📜 **SQL** & **Python** for Data Science
+* 🤖 **LLM** & **Agentic AI** for automation & AI workflows
+* 🔄 Workflow automation using **n8n**, **make**, **Knime**
+* 📊 Advanced Power BI dashboards
+* 🌱 Generative AI tools
 
 ---
 
 ## 🌐 Portfolio & Links
 
-- 💻 GitHub Repositories: [@Rameeza4444](https://github.com/Rameeza4444)
+* 💻 GitHub: [@Rameeza4444](https://github.com/Rameeza4444)
 
 ---
 
 ## 📬 Contact
 
-- 📧 Email: rameeza.ra22@sahyadri.edu.in
-- 📍 Location: India
-- 💬 Languages: English, Hindi, Kannada
+* 📧 Email: [rameeza.ra22@sahyadri.edu.in](mailto:rameeza.ra22@sahyadri.edu.in)
+* 📍 Location: India
+* 💬 Languages: English, Hindi, Kannada
 
 ---
-
-Thanks for visiting my profile! Let’s connect and grow together 🌱
